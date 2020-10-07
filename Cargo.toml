@@ -3,5 +3,10 @@ name = "crange"
 version = "0.1.0"
 authors = ["Shoaib Syed"]
 edition = "2018"
+description = "Provides types and functions to access a constant number of elements from a slice"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["const", "range"]
+repository = "https://github.com/ShoaibMSyed/crange"
 
 [dependencies]
