@@ -1,0 +1,7 @@
+[package]
+name = "crange"
+version = "0.1.0"
+authors = ["Shoaib Syed"]
+edition = "2018"
+
+[dependencies]
